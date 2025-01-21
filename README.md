@@ -19,7 +19,7 @@ The primary challenge is discovering which hub contains the messages for a speci
 
 ## Protocol specification
 
-Refer to the [VIPs (Velocity Improvement Proposals)](https://github.com/SpaceTurtle-Dao/velocity-protocol/vips) and especially [VIP-01](https://github.com/SpaceTurtle-Dao/velocity-protocol/vips/blob/main/01.md) for a detailed overview of the protocol’s specifications.
+Refer to the [VIPs (Velocity Improvement Proposals)](https://github.com/SpaceTurtle-Dao/velocity-protocol/tree/main/vips) and especially [VIP-01](https://github.com/SpaceTurtle-Dao/velocity-protocol/blob/main/vips/01.md) for a detailed overview of the protocol’s specifications.
 
 
 ## License
