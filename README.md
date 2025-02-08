@@ -21,6 +21,8 @@ The primary challenge is discovering which hub contains the messages for a speci
 
 Refer to the [VIPs (Velocity Improvement Proposals)](./vips/) and especially [VIP-01](./vips/01.md) for a detailed overview of the protocol’s specifications.
 
+## Public Hub Process
+`6gLP92yIF8ZgrHZpogUoFeyFuJl9utOaxyK58VFnpCM`
 
 ## License
 
